@@ -1,2 +1,2 @@
 # booststrap
-booststrap fixed contianer
+booststrap fixed contianer & fluid contianer
